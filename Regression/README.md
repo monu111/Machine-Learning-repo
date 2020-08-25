@@ -1,3 +1,4 @@
+# Regression Technique
 1. simple linear Regresion.
 2. Multivariate Linear Regression.
 3. Polynomial Regression.
